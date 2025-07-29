@@ -28,7 +28,7 @@ https://notes.stephenholiday.com/Kafka.pdf
 
 ## Components
 
-|__________________________________________________|
+
 | File        | Role                               |
 |-------------|------------------------------------|
 | broker.py   | Stores messages per topic          |
@@ -37,7 +37,7 @@ https://notes.stephenholiday.com/Kafka.pdf
 | message.py  | Timestamped messages               |
 | topic.py    | (Optional) Topic class             |
 | main.py     | Demo: producer → broker → consumer |
-|--------------------------------------------------|
+
 
 
 ---
