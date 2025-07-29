@@ -1,6 +1,6 @@
 # Mini Kafka in Python
 
-This is a simplified version of Apache Kafka — built in Python from scratch to understand how Kafka works at its core.
+This is a simplified version of Apache Kafka, built in Python from scratch to understand how Kafka works at its core.
 
 ---
 
