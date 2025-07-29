@@ -35,7 +35,6 @@ https://notes.stephenholiday.com/Kafka.pdf
 | producer.py | Sends messages to broker           |
 | consumer.py | Pulls messages with offset         |
 | message.py  | Timestamped messages               |
-| topic.py    | (Optional) Topic class             |
 | main.py     | Demo: producer → broker → consumer |
 
 
